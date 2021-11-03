@@ -10,7 +10,6 @@ const Layout = ({ children }) => {
             <Navbar />
             <Slider />
             {children}
-            {/* <Footer /> */}
         </>
     );
 }
